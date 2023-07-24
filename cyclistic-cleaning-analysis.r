@@ -170,8 +170,6 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Days", y = "Number of Rides", title = "Number of Rides by Days and Member Type")
 
-Picture
-
 # Let's create a visualization for average duration
 df2 %>% 
   mutate(weekday = wday(started_at, label = TRUE)) %>% 
@@ -183,8 +181,6 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Days", y = "Average Duration", title = "Average Duration of Rides by Days and Member Type")
 
-Picture
-
 # Let's create a visualization for Number of Rides by Month and Member Type
 df2 %>%
   mutate(Month = month(started_at, label = TRUE)) %>% 
@@ -195,7 +191,6 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Month", y = "Number of Rides", title = "Number of Rides by Month and Member Type")
 
-Picture
 
 # Let's visualize by Average Duration of Rides by Month and Member Type
 df2 %>%
@@ -207,7 +202,6 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Month", y = "Average Duration", title = "Average Duration of Rides by Month and Member Type")
 
-Picture
 
 # Let's visualize by Number of Rides by Member Type and Rideable Type
 df2 %>% 
@@ -219,7 +213,6 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Rideable Type", y = "Number of Rides", title = "Number of Rides by Member Type and Rideable Type")
 
-Picture
 
 # Let's visualize by Number of Rides by Rideable Type and Month
 df2 %>% 
@@ -231,4 +224,3 @@ df2 %>%
   geom_col(position = "dodge") +
   labs(x = "Month", y = "Number of Rides", title = "Number of Rides by Rideable Type and Month")
 
-Picture
