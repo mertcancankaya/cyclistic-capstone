@@ -41,7 +41,8 @@ Use the data to explore and gain insights into how annual members and casual rid
 
 # Prepare
 
-All of the functions in this stage, are done in R Studio. You can find the code of all processes in ![r](cyclistic-cleaning-analysis.r) folder.
+All of the functions in this prepare stage, are done in R Studio. You can find the code of all processes in [this](cyclistic-cleaning-analysis.r) folder.
+
 I downloaded the last 12 months between July 2022 to June 2023 (link to the dataset).
 
 #Combine All 12 Documents into a Single Document and Import as Dataset
@@ -89,6 +90,8 @@ Columns: 13
 
 # Analyze
 
+All of the functions in this analyze stage, are done in R Studio. You can find the code of all processes in [this](cyclistic-cleaning-analysis.r) folder.
+
 #Descriptive analysis on ride_length (all figures in seconds)
 
 mean(df2$ride_length,na.rm = TRUE) 
@@ -122,6 +125,9 @@ min(df2$ride_length,na.rm = TRUE)
 #analyze ridership data by type and weekday
 
 # Share
+
+All of the functions in this share stage, are done in R Studio. You can find the code of all processes in [this](cyclistic-cleaning-analysis.r) folder.
+
 #Let's visualize by Number of Rides by Days and Member Type
 
 ![number of rides by days and member type](Rplot01.png)
