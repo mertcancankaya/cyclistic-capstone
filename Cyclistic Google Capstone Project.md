@@ -55,6 +55,8 @@ Columns: 13
 
 # Process
 
+All of the functions in this process stage are done in R Studio. You can find the code of all processes in [cyclistic](cyclistic.r) document.
+
 #Inspect the new table that has been created
 
 #List of column names
