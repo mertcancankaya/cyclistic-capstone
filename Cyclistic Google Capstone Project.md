@@ -20,7 +20,7 @@ In this project, I will look at members and casual riders in their differences a
 
 •	Number of rides by rideable type by month
 
-The dataset which includes data from the last 12 months between July 2022 to June 2023 (link of the dataset), has 5,779,444 rows and 13 columns.  Because it's a large dataset, I decided to use R Studio which is better at dealing with large datasets instead of using Excel or SQL. I use R for cleaning, analyzing, and visualizing the data. Then I use visuals to prepare a presentation with PowerPoint. You can see the presentation with this [link](Cyclistic Google Capstone Project.pptx).
+The dataset which includes data from the last 12 months between July 2022 to June 2023 (link of the dataset), has 5,779,444 rows and 13 columns.  Because it's a large dataset, I decided to use R Studio which is better at dealing with large datasets instead of using Excel or SQL. I use R for cleaning, analyzing, and visualizing the data. Then I use visuals to prepare a presentation with PowerPoint. You can see the presentation with this [link](Cyclistic_Google_Capstone_Project.pptx).
 
 # Ask
 Business Question:
