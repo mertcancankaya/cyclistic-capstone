@@ -178,7 +178,7 @@ All of the functions in this share stage, are done in R Studio. You can find the
 
 # Act
 ### Conclusion
-In conclusion, the analysis of the information provided reveals distinct patterns and preferences between members and casual riders when it comes to bicycle usage. Members predominantly utilize bicycles as a means of daily commuting, relying on them to travel to work, school, and other destinations throughout the year. The average trip length for members remains relatively steady, indicating routine commuting to familiar areas, regardless of the season.
+The analysis of the information provided reveals distinct patterns and preferences between members and casual riders when it comes to bicycle usage. Members predominantly utilize bicycles as a means of daily commuting, relying on them to travel to work, school, and other destinations throughout the year. The average trip length for members remains relatively steady, indicating routine commuting to familiar areas, regardless of the season.
 
 On the other hand, casual riders employ bicycles primarily for leisure and entertainment purposes. Their rides tend to be more exploratory and longer in distance, allowing them to indulge in strolling and exploring various locations during the warmer months from May to September. Moreover, the peak activity for casual riders predominantly occurs on weekends, aligning with their desire for leisurely biking during their free time.
 
