@@ -5,6 +5,7 @@ This is the Capstone project of the Google Data Analytics Professional Program o
 In the hypothetical scenario of the case study, I am a junior data analyst working in the marketing department of the fictional Chicago-based bike-sharing company Cyclistic. In 2016, Cyclistic launched a successful bike-share offering that has grown to a fleet of 5,824 bicycles that are tracked and locked into a network of 692 stations across Chicago. The company is looking to shift from broad marketing focused on general brand recognition to a more concentrated campaign to convert casual riders into members — those paying for annual subscriptions, as opposed to one-day passes or single rides. The transition in strategy is based on an analysis by the financial department which concluded that annual members are more profitable than casual riders.
 
 The director of marketing and my manager Lily Moreno has tasked me personally with doing an analysis of the differences in the use of the service between casual and annual members. Its insights and recommendations will then be used to design an effective advertising campaign.
+
 In this project, I will look at members and casual riders in their differences across 6 dimensions:
 
 •	Number of rides by month
@@ -37,8 +38,10 @@ Key Stakeholders:
 Business Task:
 
 Use the data to explore and gain insights into how annual members and casual riders use bikes differently. From trends and insights, assist the team to implement marketing strategies aimed at converting casual riders into annual members.
+
 # Prepare
-All of the functions in this stage, are done in R Studio. You can find the code of all processes in cyclistic-cleaning-analysis.r folder.
+
+All of the functions in this stage, are done in R Studio. You can find the code of all processes in ![r](cyclistic-cleaning-analysis.r) folder.
 I downloaded the last 12 months between July 2022 to June 2023 (link to the dataset).
 
 #Combine All 12 Documents into a Single Document and Import as Dataset
