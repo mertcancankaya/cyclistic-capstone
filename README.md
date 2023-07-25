@@ -114,37 +114,37 @@ All of the functions in this share stage, are done in R Studio. You can find the
 
 #Let's visualize by Number of Rides by Days and Member Type
 
-![number of rides by days and member type](Rplot01.png)
+![number of rides by days and member type](Rplots/Rplot01.png)
  
 #### Analysis: We can see members are using bikes more on weekdays for commuting between home and work or school. But casuals are more active on weekends because they are using the bikes for recreational activities.
 
 #Let's create a visualization for the average duration of rides by days and member type
   
-  ![average duration of rides by days and member type](Rplot03.png)
+  ![average duration of rides by days and member type](Rplots/Rplot03.png)
  
 #### Analysis: While casual users are using bikes for longer durations and durations increase in weekends, members use for smaller distances with a slight increase in weekends.
 
 #Let's create a visualization for the Number of Rides by Month and Member Type
 
- ![number of rides by month and member type](Rplot02.png)
+ ![number of rides by month and member type](Rplots/Rplot02.png)
 
 #### Analysis: Both members and casuals use bikes way more in warmer months. Summer is most active season. In every month, members have a higher number of rides. The difference between causals and members increases in winter while it decreases in summer.
 
 #Let's visualize by Average Duration of Rides by Month and Member Type
 
- ![average duration of rides by month and member type](Rplot.png)
+ ![average duration of rides by month and member type](Rplots/Rplot.png)
  
 #### Analysis: Causal rides always have a longer average duration of rides compared to members. 
 
 #Let's visualize by Number of Rides by Member Type and Rideable Type
 
- ![number of rides by member type and rideable type](Rplot04.png)
+ ![number of rides by member type and rideable type](Rplots/Rplot04.png)
  
 #### Analysis: The most chosen bike type by members is the classic bike while causals prefer electric over classic bikes. Docked bikes least favorite bike type for both groups. Members never use docked bikes.
 
 #Let's visualize by Number of Rides by Rideable Type and Month
 
- ![number of rides by rideable type and month](Rplot05.png)
+ ![number of rides by rideable type and month](Rplots/Rplot05.png)
  
 #### Analysis: Classic bikes are overall the most used bikes every month followed by electric bikes. Docked bikes have significantly less number of rides compared to the other bike types.
 
