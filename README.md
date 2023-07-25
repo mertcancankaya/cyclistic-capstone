@@ -178,7 +178,13 @@ All of the functions in this share stage, are done in R Studio. You can find the
 
 # Act
 ### Conclusion
-After analyzing and displaying the data, I discovered that there was a higher percentage of members compared to casual riders, that members preferred classic bikes more while casual riders chose electric bike more often, that bike usage was more popular in the summer and fall, and that casual riders had a longer average ride duration. As evidenced by the average amount of time spent riding by casual riders, the docked bike is also the least popular bike.
+In conclusion, the analysis of the information provided reveals distinct patterns and preferences between members and casual riders when it comes to bicycle usage. Members predominantly utilize bicycles as a means of daily commuting, relying on them to travel to work, school, and other destinations throughout the year. The average trip length for members remains relatively steady, indicating routine commuting to familiar areas, regardless of the season.
+
+On the other hand, casual riders employ bicycles primarily for leisure and entertainment purposes. Their rides tend to be more exploratory and longer in distance, allowing them to indulge in strolling and exploring various locations during the warmer months from May to September. Moreover, the peak activity for casual riders predominantly occurs on weekends, aligning with their desire for leisurely biking during their free time.
+
+While both groups experience peak months during the warmer seasons, there is a clear distinction in peak days. Members witness heightened activity on weekdays when they use bicycles for their daily commutes, while casual riders enjoy their peak moments over weekends when they seek recreational biking experiences.
+
+Overall, these findings shed light on the different roles bicycles play in the lives of members and casual riders. Understanding these variations in behavior and preferences can be valuable for stakeholders and marketing team to make better business decisions in the future.
 
 ### Recommendations
 •	Due to the high popularity of bike usage throughout the summer and early fall, it would be a good idea to launch an incentive campaign to maintain or increase bike usage
