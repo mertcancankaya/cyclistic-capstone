@@ -20,7 +20,7 @@ In this project, I will look at members and casual riders in their differences a
 
 •	Number of rides by rideable type by month
 
-The dataset which includes data from the last 12 months between July 2022 to June 2023 (link of the dataset), has 5,779,444 rows and 13 columns.  Because it's a large dataset, I decided to use R Studio which is better at dealing with large datasets instead of using Excel or SQL. I use R for cleaning, analyzing, and visualizing the data. Then I use visuals to prepare a presentation with PowerPoint. You can see the presentation with this link.
+The dataset which includes data from the last 12 months between July 2022 to June 2023 (link of the dataset), has 5,779,444 rows and 13 columns.  Because it's a large dataset, I decided to use R Studio which is better at dealing with large datasets instead of using Excel or SQL. I use R for cleaning, analyzing, and visualizing the data. Then I use visuals to prepare a presentation with PowerPoint. You can see the presentation with this [link](Cyclistic Google Capstone Project.pptx).
 
 # Ask
 Business Question:
@@ -41,7 +41,7 @@ Use the data to explore and gain insights into how annual members and casual rid
 
 # Prepare
 
-All of the functions in this prepare stage, are done in R Studio. You can find the code of all processes in [this](cyclistic-cleaning-analysis.r) folder.
+All of the functions in this preparation stage are done in R Studio. You can find the code of all processes in [this](cyclistic-cleaning-analysis.r) folder.
 
 I downloaded the last 12 months between July 2022 to June 2023 (link to the dataset).
 
@@ -95,24 +95,6 @@ All of the functions in this analyze stage, are done in R Studio. You can find t
 #Descriptive analysis on ride_length (all figures in seconds)
 
 mean(df2$ride_length,na.rm = TRUE) 
-
-1160.629
-
-mean(df2$ride_length,na.rm = TRUE)
-
-1160.629
-
-median(df2$ride_length,na.rm = TRUE)
-
-593
-
-max(df2$ride_length,na.rm = TRUE) 
-
-2483235
-
-min(df2$ride_length,na.rm = TRUE)
-
-0
 
 #Summary
 
@@ -193,20 +175,20 @@ All of the functions in this share stage, are done in R Studio. You can find the
 
 # Act
 ### Conclusion
-After analyzing and displaying the data, I discovered that there were a higher percentage of members compared to casual riders, that members preferred classic bikes more while casual riders chose electric bike more often, that bike usage was more popular in the summer and fall, and that casual riders had a longer average ride duration. As evidenced by the average amount of time spent riding by casual riders, the docked bike is also the least popular bike.
+After analyzing and displaying the data, I discovered that there was a higher percentage of members compared to casual riders, that members preferred classic bikes more while casual riders chose electric bike more often, that bike usage was more popular in the summer and fall, and that casual riders had a longer average ride duration. As evidenced by the average amount of time spent riding by casual riders, the docked bike is also the least popular bike.
 
 ### Recommendations
 •	Due to the high popularity of bike usage throughout the summer and early fall, it would be a good idea to launch an incentive campaign to maintain or increase bike usage
 
-•	Casual riders spend more time riding bike, therefore providing some kind of discounts or promotions for the electric bike would help them save some time
+•	Casual riders spend more time riding bikes, therefore providing some kind of discounts or promotions for the electric bike would help them save some time
 
-•	Launch marketing campaign that target the benefits of converting into annual membership for casual riders through advertisements, emails, and brochures
+•	Launch a marketing campaign that targets the benefits of converting into annual membership for casual riders through advertisements, emails, and brochures
 
 •	 Summer Membership: Offer a seasonal membership for summer (May to August) tailored for casual riders, emphasizing bikes near popular attractions and entertainment spots.
 
 •	Weekend Discounts: Provide exclusive discounts for weekends and longer rides to incentivize casual riders to become members and enjoy cost savings.
 
-•	The company should not invest more in docked bikes because its least used by both members and causals by large margin. Also company might thing or completely removing docked bikes and changing them with more used classic or electric bikes.
+•	The company should not invest more in docked bikes because its least used by both members and causals by a large margin. Also, the company might think of completely removing docked bikes and changing them with more used classic or electric bikes.
 
 Implementing these concise methods can help the marketing campaign turn casual bikers into valued members, enhancing their summer bicycling experience. By doing so, the company can be more profitable in the future.
 
