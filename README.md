@@ -2,6 +2,7 @@ Google data analytics capstone project cyclistic bike-share analysis by Mert Can
 
 ## Background
 This is the Capstone project of the Google Data Analytics Professional Program on Coursera.
+
 In the hypothetical scenario of the case study, I am a junior data analyst working in the marketing department of the fictional Chicago-based bike-sharing company Cyclistic. In 2016, Cyclistic launched a successful bike-share offering that has grown to a fleet of 5,824 bicycles that are tracked and locked into a network of 692 stations across Chicago. The company is looking to shift from broad marketing focused on general brand recognition to a more concentrated campaign to convert casual riders into members — those paying for annual subscriptions, as opposed to one-day passes or single rides. The transition in strategy is based on an analysis by the financial department which concluded that annual members are more profitable than casual riders.
 
 The director of marketing and my manager Lily Moreno has tasked me personally with doing an analysis of the differences in the use of the service between casual and annual members. Its insights and recommendations will then be used to design an effective advertising campaign.
